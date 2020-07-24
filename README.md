@@ -9,7 +9,7 @@
 
 2.解壓縮 ngrok.rar
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 開啟anconda對應的環境及資料夾位置，輸入` ngrok http 5000`
-#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Messaging API>Webhook settings:
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Messaging API>Webhook settings:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 輸入Forwarding中的網址+/callback
 
