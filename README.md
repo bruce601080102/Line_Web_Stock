@@ -33,3 +33,7 @@ handler = WebhookHandler('410b098a32f3632c01908750c161c231')
 4.加入自己所創的官方line帳號輸入股票名稱即可
 
 ![image](https://github.com/bruce601080102/Line_Web_Stock/blob/master/%E5%9C%96%E7%89%87/%E7%B5%90%E6%9E%9C.png)
+
+5.加入機器學習做及時預測kd線漲幅
+
+![image](https://github.com/bruce601080102/Line_Web_Stock/blob/master/%E5%9C%96%E7%89%87/%E6%A9%9F%E5%99%A8%E9%A0%90%E6%B8%AC.png)
